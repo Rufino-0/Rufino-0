@@ -1,3 +1,4 @@
+<center>
 ## Olá me chamo Eli! 🖐🏼
 
 ### Redes 
@@ -40,3 +41,5 @@ Atualmente eu estou cursando o Bacharelado de Sistemas de Informação pela SPTe
 
 Esse perfil serve para servir como um espelho de cada coisa que eu for desenvolvendo e aprendendo durante meu curso.
 Ao longo dos anos ele será preenchido.
+
+</center>
